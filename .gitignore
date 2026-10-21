@@ -1,0 +1,10 @@
+# Ignore Word drafts and Office temporary files
+word drafts/
+*.docx
+*.doc
+*.tmp
+~$*
+
+# OS generated files
+Thumbs.db
+.DS_Store
